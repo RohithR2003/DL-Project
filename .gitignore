@@ -1,0 +1,13 @@
+venv/ 
+.venv/ 
+env/ 
+receipts/ 
+__pycache__/ 
+*.pyc 
+.vscode/ 
+.ipynb_checkpoints/ 
+models/*.pkl 
+models/*.h5 
+models/*.pt 
+data/ 
+datasets/ 

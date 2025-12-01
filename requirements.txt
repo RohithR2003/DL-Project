@@ -1,0 +1,8 @@
+streamlit 
+pandas 
+numpy 
+fpdf2 
+transformers
+torch 
+torchvision 
+torchaudio
